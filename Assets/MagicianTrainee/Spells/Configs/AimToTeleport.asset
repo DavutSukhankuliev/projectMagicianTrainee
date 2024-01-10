@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21042d8fe8474bbbbfc21213f8bd5da9, type: 3}
+  m_Name: AimToTeleport
+  m_EditorClassIdentifier: 
+  Name: spell_aimToTeleport
+  Hands: 1
+  DistanceBetweenHands: {x: 0, y: 0, z: 0}
+  BasicSpellController: {fileID: 8528760172004861389, guid: b6563cc7ce165244fa37c72ddab1181c, type: 3}
